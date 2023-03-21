@@ -2,7 +2,7 @@
 
 ## Topic and Reason for Selection 
 
-**Food producation of CO2 emmisions based by countries**
+**Food producation rates impacting CO2 emmisions based by countries**
 
 ## Description of the Data
 
