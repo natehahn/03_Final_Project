@@ -20,3 +20,4 @@
 3. Can we predict the year based on CO2 emissions of a country?
 4. Is there a correlation between region size and the rate of production impacting CO2 emissions? 
 5. Is there a correlation between population and the rate of production impacting CO2 emissions?
+6. Can we predict region based on CO2 emissions?
