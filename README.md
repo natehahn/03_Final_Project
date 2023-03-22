@@ -12,11 +12,11 @@
 
 5. MasterList:
 
-##Description of Data
+## Description of Data
 
-##Tools and Technologies 
+## Tools and Technologies 
 
-##Machine Learning Models
+## Machine Learning Models
 
 
 ## Investigative Query
@@ -27,4 +27,4 @@
 4. Is there a correlation between region size and the rate of production impacting CO2 emissions? 
 5. Is there a correlation between population and the rate of production impacting CO2 emissions?
 
-##Findings  
+## Findings  
