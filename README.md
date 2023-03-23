@@ -5,19 +5,23 @@
 
 ## Datasets 
 
-1. Database 1 CO2 Emissions by Country | Kaggle
-2. Database 2 Environmental Impact of Food | Kaggle
-3. Database 3 Population | WorldBank
-4. Database 4 Emissons from Food | Enviormantal Impact of Food| Kaggle
+1. Database 1 **CO2 Emissions by Country | Kaggle**
+2. Database 2 **Environmental Impact of Food | Kaggle**
+3. Database 3 **Population | WorldBank**
+4. Database 4 **Emissons from Food | Enviormantal Impact of Food| Kaggle**
 
 
 
 ## Description of Data
+The datasets we will be examining in this analysis come from Kaggle and WorldBank report. We will be comparing the the relation of the product production impact on a countries CO2 emisson rates. 
+- Countries:
+- Products:
+- Years: 2000 - 2021
 
 
 ## Tools and Technologies 
 
-## Machine Learning Models
+## Machine Learning Model
 
 
 ## Investigative Query
