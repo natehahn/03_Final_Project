@@ -1,3 +1,4 @@
+
 Item_Code_CPC_text,Item_Code_CPC_num,Item,Category Code,Food_Product_Categories
 '0111,111,Wheat,42,Wheat & Rye (Bread)
 '0112,112,Maize (corn),19,Maize (Meal)
@@ -121,7 +122,7 @@ Item_Code_CPC_text,Item_Code_CPC_num,Item,Category Code,Food_Product_Categories
 '01599.10,1599.1,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",35,Root Vegetables
 '01610,1610,"Coffee, green",13,Coffee
 '01620,1620,Tea leaves,27,Other Vegetables
-'01630,1630,Maté leaves,27,Other Vegetables
+'01630,1630,MatÃ© leaves,27,Other Vegetables
 '01640,1640,Cocoa beans,14,Dark Chocolate
 '01651,1651,"Pepper (Piper spp.), raw",25,Other Fruit
 '01652,1652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",25,Other Fruit
@@ -276,27 +277,3 @@ Item_Code_CPC_text,Item_Code_CPC_num,Item,Category Code,Food_Product_Categories
 '24310.01,24310.01,"Beer of barley, malted",3,Barley (Beer)
 '26110,26110,Raw silk (not thrown),44,Not a Food Product
 '26190.01,26190.01,"Flax, processed but not spun",44,Not a Food Product
-'F1717,1717,"Cereals, primary",46,Upper Level Category
-'F1720,1720,"Roots and Tubers, Total",46,Upper Level Category
-'F1723,1723,Sugar Crops Primary,46,Upper Level Category
-'F1726,1726,"Pulses, Total",46,Upper Level Category
-'F1729,1729,"Treenuts, Total",46,Upper Level Category
-'F1732,1732,"Oilcrops, Oil Equivalent",46,Upper Level Category
-'F1735,1735,Vegetables Primary,46,Upper Level Category
-'F1738,1738,Fruit Primary,46,Upper Level Category
-'F1745,1745,Cheese (All Kinds),46,Upper Level Category
-'F1746,1746,Cattle and Buffaloes,46,Upper Level Category
-'F1749,1749,Sheep and Goats,46,Upper Level Category
-'F17530,17530,"Fibre Crops, Fibre Equivalent",46,Upper Level Category
-'F1765,1765,"Meat, Total",46,Upper Level Category
-'F1780,1780,"Milk, Total",46,Upper Level Category
-'F1783,1783,Eggs Primary,46,Upper Level Category
-'F1804,1804,"Citrus Fruit, Total",46,Upper Level Category
-'F1806,1806,"Beef and Buffalo Meat, primary",46,Upper Level Category
-'F1807,1807,Sheep and Goat Meat,46,Upper Level Category
-'F1808,1808,"Meat, Poultry",46,Upper Level Category
-F1809.02,1809.02,"Skim Milk & Buttermilk, Dry",46,Upper Level Category
-'F1811,1811,Butter and Ghee,46,Upper Level Category
-'F1816,1816,Evaporated & Condensed Milk,46,Upper Level Category
-'F1841,1841,"Oilcrops, Cake Equivalent",46,Upper Level Category
-'F2029,2029,Poultry Birds,46,Upper Level Category
