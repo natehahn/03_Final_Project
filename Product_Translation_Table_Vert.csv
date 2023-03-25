@@ -1,302 +1,277 @@
-Item_Code_CPC_text,Item_Code_CPC_num,Item,Category Code,Food_Product_Categories
-'0111,111,Wheat,42,Wheat & Rye (Bread)
-'0112,112,Maize (corn),19,Maize (Meal)
-'0113,113,Rice,34,Rice
-'0114,114,Sorghum,26,Other Pulses
-'0115,115,Barley,3,Barley (Beer)
-'0116,116,Rye,42,Wheat & Rye (Bread)
-'0117,117,Oats,22,Oatmeal
-'0118,118,Millet,26,Other Pulses
-'01191,1191,Triticale,26,Other Pulses
-'01192,1192,Buckwheat,26,Other Pulses
-'01193,1193,Fonio,26,Other Pulses
-'01194,1194,Quinoa,26,Other Pulses
-'01195,1195,Canary seed,26,Other Pulses
-'01199.02,1199.02,Mixed grain,26,Other Pulses
-'01199.90,1199.9,Cereals n.e.c.,26,Other Pulses
-'01211,1211,Asparagus,27,Other Vegetables
-'01212,1212,Cabbages,8,Brassicas
-'01213,1213,Cauliflowers and broccoli,8,Brassicas
-'01214,1214,Lettuce and chicory,8,Brassicas
-'01215,1215,Spinach,8,Brassicas
-'01216,1216,Artichokes,27,Other Vegetables
-'01219.01,1219.01,Cassava leaves,10,Cassava
-'01221,1221,Watermelons,25,Other Fruit
-'01229,1229,Cantaloupes and other melons,25,Other Fruit
-'01231,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",27,Other Vegetables
-'01232,1232,Cucumbers and gherkins,25,Other Fruit
-'01233,1233,Eggplants (aubergines),25,Other Fruit
-'01234,1234,Tomatoes,41,Tomatoes
-'01235,1235,"Pumpkins, squash and gourds",25,Other Fruit
-'01239.01,1239.01,Okra,27,Other Vegetables
-'01241.01,1241.01,String beans,27,Other Vegetables
-'01241.90,1241.9,"Other beans, green",27,Other Vegetables
-'01242,1242,"Peas, green",29,Peas
-'01243,1243,"Broad beans and horse beans, green",27,Other Vegetables
-'01251,1251,Carrots and turnips,35,Root Vegetables
-'01252,1252,Green garlic,24,Onions & Leeks
-'01253.01,1253.01,"Onions and shallots, green",24,Onions & Leeks
-'01253.02,1253.02,"Onions and shallots, dry (excluding dehydrated)",24,Onions & Leeks
-'01254,1254,Leeks and other alliaceous vegetables,24,Onions & Leeks
-'01270,1270,Mushrooms and truffles,25,Other Fruit
-'01290.01,1290.01,Green corn (maize),19,Maize (Meal)
-'01290.90,1290.9,"Other vegetables, fresh n.e.c.",27,Other Vegetables
-'01311,1311,Avocados,25,Other Fruit
-'01312,1312,Bananas,2,Bananas
-'01313,1313,Plantains and cooking bananas,2,Bananas
-'01314,1314,Dates,25,Other Fruit
-'01315,1315,Figs,25,Other Fruit
-'01316,1316,"Mangoes, guavas and mangosteens",25,Other Fruit
-'01317,1317,Papayas,25,Other Fruit
-'01318,1318,Pineapples,25,Other Fruit
-'01319,1319,"Other tropical fruits, n.e.c.",25,Other Fruit
-'01321,1321,Pomelos and grapefruits,12,Citrus Fruit
-'01322,1322,Lemons and limes,12,Citrus Fruit
-'01323,1323,Oranges,12,Citrus Fruit
-'01324,1324,"Tangerines, mandarins, clementines",12,Citrus Fruit
-'01329,1329,"Other citrus fruit, n.e.c.",12,Citrus Fruit
-'01330,1330,Grapes,7,Berries & Grapes
-'01341,1341,Apples,1,Apples
-'01342.01,1342.01,Pears,25,Other Fruit
-'01342.02,1342.02,Quinces,25,Other Fruit
-'01343,1343,Apricots,25,Other Fruit
-'01344.01,1344.01,Sour cherries,7,Berries & Grapes
-'01344.02,1344.02,Cherries,7,Berries & Grapes
-'01345,1345,Peaches and nectarines,25,Other Fruit
-'01346,1346,Plums and sloes,25,Other Fruit
-'01349.10,1349.1,Other pome fruits,25,Other Fruit
-'01349.20,1349.2,Other stone fruits,25,Other Fruit
-'01351.01,1351.01,Currants,7,Berries & Grapes
-'01351.02,1351.02,Gooseberries,7,Berries & Grapes
-'01352,1352,Kiwi fruit,7,Berries & Grapes
-'01353.01,1353.01,Raspberries,7,Berries & Grapes
-'01354,1354,Strawberries,7,Berries & Grapes
-'01355.01,1355.01,Blueberries,7,Berries & Grapes
-'01355.02,1355.02,Cranberries,7,Berries & Grapes
-'01355.90,1355.9,Other berries and fruits of the genus vaccinium n.e.c.,7,Berries & Grapes
-'01356,1356,Locust beans (carobs),26,Other Pulses
-'01359.01,1359.01,Persimmons,25,Other Fruit
-'01359.02,1359.02,Cashewapple,21,Nuts
-'01359.90,1359.9,"Other fruits, n.e.c.",25,Other Fruit
-'01371,1371,"Almonds, in shell",21,Nuts
-'01372,1372,"Cashew nuts, in shell",21,Nuts
-'01373,1373,"Chestnuts, in shell",21,Nuts
-'01374,1374,"Hazelnuts, in shell",21,Nuts
-'01375,1375,"Pistachios, in shell",21,Nuts
-'01376,1376,"Walnuts, in shell",21,Nuts
-'01377,1377,"Brazil nuts, in shell",21,Nuts
-'01379.01,1379.01,Areca nuts,21,Nuts
-'01379.02,1379.02,Kola nuts,21,Nuts
-'01379.90,1379.9,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",21,Nuts
-'0141,141,Soya beans,40,Tofu
-'0142,142,"Groundnuts, excluding shelled",17,Groundnuts
-'0143,143,Cotton seed,26,Other Pulses
-'01441,1441,Linseed,26,Other Pulses
-'01442,1442,Mustard seed,26,Other Pulses
-01443,1443,Rape or colza seed,33,Rapeseed Oil
-'01444,1444,Sesame seed,26,Other Pulses
-'01445,1445,Sunflower seed,39,Sunflower Oil
-'01446,1446,Safflower seed,26,Other Pulses
-'01447,1447,Castor oil seeds,26,Other Pulses
-'01448,1448,Poppy seed,26,Other Pulses
-'01449.01,1449.01,Melonseed,26,Other Pulses
-'01449.02,1449.02,Hempseed,26,Other Pulses
-'01449.90,1449.9,"Other oil seeds, n.e.c.",26,Other Pulses
-'01450,1450,Olives,25,Other Fruit
-'01460,1460,"Coconuts, in shell",25,Other Fruit
-'01491.01,1491.01,Oil palm fruit,28,Palm Oil
-'01491.02,1491.02,Palm kernels,26,Other Pulses
-'01499.01,1499.01,Karite nuts (sheanuts),21,Nuts
-'01499.02,1499.02,Tung nuts,21,Nuts
-'01499.03,1499.03,Jojoba seeds,44,Not a Food Product
-'01499.04,1499.04,Tallowtree seeds,44,Not a Food Product
-'01499.05,1499.05,Kapok fruit,25,Other Fruit
-'01499.06,1499.06,Kapokseed in shell,26,Other Pulses
-'01510,1510,Potatoes,31,Potatoes
-'01520.01,1520.01,"Cassava, fresh",10,Cassava
-'01530,1530,Sweet potatoes,35,Root Vegetables
-'01540,1540,Yams,35,Root Vegetables
-'01550,1550,Taro,35,Root Vegetables
-'01591,1591,Yautia,35,Root Vegetables
-'01599.10,1599.1,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",35,Root Vegetables
-'01610,1610,"Coffee, green",13,Coffee
-'01620,1620,Tea leaves,27,Other Vegetables
-'01630,1630,Maté leaves,27,Other Vegetables
-'01640,1640,Cocoa beans,14,Dark Chocolate
-'01651,1651,"Pepper (Piper spp.), raw",25,Other Fruit
-'01652,1652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",25,Other Fruit
-'01653,1653,"Nutmeg, mace, cardamoms, raw",26,Other Pulses
-'01654,1654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",26,Other Pulses
-'01655,1655,"Cinnamon and cinnamon-tree flowers, raw",27,Other Vegetables
-'01656,1656,"Cloves (whole stems), raw",27,Other Vegetables
-'01657,1657,"Ginger, raw",35,Root Vegetables
-'01658,1658,"Vanilla, raw",26,Other Pulses
-'01659,1659,Hop cones,27,Other Vegetables
-'01691,1691,Chicory roots,35,Root Vegetables
-'01699,1699,"Other stimulant, spice and aromatic crops, n.e.c.",27,Other Vegetables
-'01701,1701,"Beans, dry",26,Other Pulses
-'01702,1702,"Broad beans and horse beans, dry",26,Other Pulses
-'01703,1703,"Chick peas, dry",26,Other Pulses
-'01704,1704,"Lentils, dry",26,Other Pulses
-'01705,1705,"Peas, dry",29,Peas
-'01706,1706,"Cow peas, dry",26,Other Pulses
-'01707,1707,"Pigeon peas, dry",26,Other Pulses
-'01708,1708,"Bambara beans, dry",26,Other Pulses
-'01709.01,1709.01,Vetches,26,Other Pulses
-'01709.02,1709.02,Lupins,26,Other Pulses
-'01709.90,1709.9,Other pulses n.e.c.,26,Other Pulses
-'01801,1801,Sugar beet,6,Beet Sugar
-'01802,1802,Sugar cane,9,Cane Sugar
-'01809,1809,Other sugar crops n.e.c.,45,No CO2 data provided
-'01921.01,1921.01,"Seed cotton, unginned",44,Not a Food Product
-'01921.02,1921.02,"Cotton lint, ginned",44,Not a Food Product
-'01922.01,1922.01,"Jute, raw or retted",44,Not a Food Product
-'01922.02,1922.02,"Kenaf, and other textile bast fibres, raw or retted",44,Not a Food Product
-'01929.02,1929.02,"True hemp, raw or retted",44,Not a Food Product
-'01929.03,1929.03,"Kapok fibre, raw",44,Not a Food Product
-'01929.04,1929.04,"Ramie, raw or retted",44,Not a Food Product
-'01929.05,1929.05,"Sisal, raw",44,Not a Food Product
-'01929.06,1929.06,"Agave fibres, raw, n.e.c.",44,Not a Food Product
-'01929.07,1929.07,"Abaca, manila hemp, raw",44,Not a Food Product
-'01929.08,1929.08,"Coir, raw",44,Not a Food Product
-'01929.90,1929.9,"Other fibre crops, raw, n.e.c.",44,Not a Food Product
-'01930.01,1930.01,"Peppermint, spearmint",27,Other Vegetables
-'01930.02,1930.02,"Pyrethrum, dried flowers",44,Not a Food Product
-'01950.01,1950.01,Natural rubber in primary forms,44,Not a Food Product
-'01970,1970,Unmanufactured tobacco,44,Not a Food Product
-'02111,2111,Cattle,4,Beef (beef herd)
-'02112,2112,Buffalo,45,No CO2 data provided
-'02121.01,2121.01,Camels,45,No CO2 data provided
-'02121.02,2121.02,Other camelids,45,No CO2 data provided
-'02122,2122,Sheep,18,Lamb & Mutton
-'02123,2123,Goats,45,No CO2 data provided
-'02131,2131,Horses,45,No CO2 data provided
-'02132,2132,Asses,45,No CO2 data provided
-'02133,2133,Mules and hinnies,45,No CO2 data provided
-'02140,2140,Swine / pigs,30,Pig Meat
-'02151,2151,Chickens,32,Poultry Meat
-'02152,2152,Turkeys,32,Poultry Meat
-'02153,2153,Geese,32,Poultry Meat
-'02154,2154,Ducks,32,Poultry Meat
-'02191,2191,Rabbits and hares,45,No CO2 data provided
-'02192.01,2192.01,Other rodents,45,No CO2 data provided
-'02196,2196,Bees,44,Not a Food Product
-'02211,2211,Raw milk of cattle,20,Milk
-'02212,2212,Raw milk of buffalo,20,Milk
-'02291,2291,Raw milk of sheep,20,Milk
-'02292,2292,Raw milk of goats,20,Milk
-'02293,2293,Raw milk of camel,20,Milk
-'0231,231,"Hen eggs in shell, fresh",15,Eggs
-'0232,232,"Eggs from other birds in shell, fresh, n.e.c.",15,Eggs
-'02910,2910,Natural honey,45,No CO2 data provided
-'02920,2920,"Snails, fresh, chilled, frozen, dried, salted or in brine, except sea snails",45,No CO2 data provided
-'02941,2941,"Shorn wool, greasy, including fleece-washed shorn wool",44,Not a Food Product
-'02944,2944,Silk-worm cocoons suitable for reeling,44,Not a Food Product
-'02951.01,2951.01,Raw hides and skins of cattle,44,Not a Food Product
-'02951.03,2951.03,Raw hides and skins of buffaloes,44,Not a Food Product
-'02953,2953,Raw hides and skins of sheep or lambs,44,Not a Food Product
-'02954,2954,Raw hides and skins of goats or kids,44,Not a Food Product
-'02960.01,2960.01,Beeswax,44,Not a Food Product
-'03211,3211,"Balata, gutta-percha, guayule, chicle and similar natural gums in primary forms or in plates, sheets or strip",44,Not a Food Product
-'21111.01,21111.01,"Meat of cattle with the bone, fresh or chilled",4,Beef (beef herd)
-'21112,21112,"Meat of buffalo, fresh or chilled",45,No CO2 data provided
-'21113.01,21113.01,"Meat of pig with the bone, fresh or chilled",45,No CO2 data provided
-'21114,21114,"Meat of rabbits and hares, fresh or chilled",45,No CO2 data provided
-'21115,21115,"Meat of sheep, fresh or chilled",18,Lamb & Mutton
-'21116,21116,"Meat of goat, fresh or chilled",45,No CO2 data provided
-'21117.01,21117.01,"Meat of camels, fresh or chilled",45,No CO2 data provided
-'21117.02,21117.02,"Meat of other domestic camelids, fresh or chilled",45,No CO2 data provided
-'21118.01,21118.01,"Horse meat, fresh or chilled",45,No CO2 data provided
-'21118.02,21118.02,"Meat of asses, fresh or chilled",45,No CO2 data provided
-'21118.03,21118.03,"Meat of mules, fresh or chilled",45,No CO2 data provided
-'21119.01,21119.01,"Meat of other domestic rodents, fresh or chilled",45,No CO2 data provided
-'21121,21121,"Meat of chickens, fresh or chilled",32,Poultry Meat
-'21122,21122,"Meat of ducks, fresh or chilled",32,Poultry Meat
-'21123,21123,"Meat of geese, fresh or chilled",32,Poultry Meat
-'21124,21124,"Meat of turkeys, fresh or chilled",32,Poultry Meat
-'21151,21151,"Edible offal of cattle, fresh, chilled or frozen",4,Beef (beef herd)
-'21152,21152,"Edible offal of buffalo, fresh, chilled or frozen",45,No CO2 data provided
-'21153,21153,"Edible offal of pigs, fresh, chilled or frozen",30,Pig Meat
-'21155,21155,"Edible offal of sheep, fresh, chilled or frozen",18,Lamb & Mutton
-'21156,21156,"Edible offal of goat, fresh, chilled or frozen",45,No CO2 data provided
-'21159.01,21159.01,"Edible offals of horses and other equines,  fresh, chilled or frozen",45,No CO2 data provided
-'21159.02,21159.02,"Edible offals of camels and other camelids, fresh, chilled or frozen",45,No CO2 data provided
-'21170.01,21170.01,"Meat of pigeons and other birds n.e.c., fresh, chilled or frozen",32,Poultry Meat
-'21170.02,21170.02,"Game meat, fresh, chilled or frozen",45,No CO2 data provided
-'21170.92,21170.92,"Other meat n.e.c. (excluding mammals), fresh, chilled or frozen",45,No CO2 data provided
-'21511.01,21511.01,Fat of pigs,30,Pig Meat
-'21512,21512,"Cattle fat, unrendered",4,Beef (beef herd)
-'21513,21513,"Buffalo fat, unrendered",45,No CO2 data provided
-'21514,21514,"Sheep fat, unrendered",18,Lamb & Mutton
-'21515,21515,"Goat fat, unrendered",45,No CO2 data provided
-'21519.02,21519.02,Fat of camels,45,No CO2 data provided
-'21521,21521,"Pig fat, rendered",30,Pig Meat
-'21523,21523,Tallow,44,Not a Food Product
-'2161,2161,Soya bean oil,37,Soybean Oil
-'2162,2162,Groundnut oil,17,Groundnuts
-'21631.01,21631.01,"Sunflower-seed oil, crude",39,Sunflower Oil
-'21631.02,21631.02,"Safflower-seed oil, crude",26,Other Pulses
-'21641.01,21641.01,"Rapeseed or canola oil, crude",33,Rapeseed Oil
-'2165,2165,Palm oil,28,Palm Oil
-'2166,2166,Coconut oil,25,Other Fruit
-'2167,2167,Olive oil,23,Olive Oil
-'2168,2168,Cottonseed oil,26,Other Pulses
-'21691.02,21691.02,Oil of maize,19,Maize (Meal)
-'21691.07,21691.07,Oil of sesame seed,26,Other Pulses
-'21691.12,21691.12,Oil of linseed,26,Other Pulses
-'21691.14,21691.14,Oil of palm kernel,26,Other Pulses
-'21700.02,21700.02,Margarine and shortening,33,Rapeseed Oil
-'22110.02,22110.02,Skim milk of cows,20,Milk
-'22120,22120,"Cream, fresh",20,Milk
-'22130.02,22130.02,"Whey, dry",20,Milk
-'22130.03,22130.03,"Whey, condensed",20,Milk
-'22211,22211,Whole milk powder,20,Milk
-'22212,22212,Skim milk and whey powder,20,Milk
-'22221.01,22221.01,"Whole milk, evaporated",20,Milk
-'22221.02,22221.02,"Skim milk, evaporated",20,Milk
-'22222.01,22222.01,"Whole milk, condensed",20,Milk
-'22222.02,22222.02,"Skim milk, condensed",20,Milk
-'22230.01,22230.01,Yoghurt,20,Milk
-'22230.04,22230.04,"Buttermilk, dry",20,Milk
-'22241.01,22241.01,Butter of cow milk,20,Milk
-'22241.02,22241.02,Ghee from cow milk,20,Milk
-'22242.01,22242.01,Butter of buffalo milk,20,Milk
-'22242.02,22242.02,Ghee from buffalo milk,20,Milk
-'22249.01,22249.01,Butter and ghee of sheep milk,20,Milk
-'22249.02,22249.02,Butter of goat milk,20,Milk
-'22251.01,22251.01,Cheese from whole cow milk,11,Cheese
-'22251.02,22251.02,Cheese from skimmed cow milk,11,Cheese
-'22252,22252,"Cheese from milk of buffalo, fresh or processed",11,Cheese
-'22253,22253,"Cheese from milk of sheep, fresh or processed",11,Cheese
-'22254,22254,"Cheese from milk of goats, fresh or processed",11,Cheese
-'2351f,2351f,Raw cane or beet sugar (centrifugal only),47,Other
-'23540,23540,Molasses,45,No CO2 data provided
-'23913,23913,"Green tea (not fermented), black tea (fermented) and partly fermented tea",27,Other Vegetables
-'24212.02,24212.02,Wine,43,Wine
-'24310.01,24310.01,"Beer of barley, malted",3,Barley (Beer)
-'26110,26110,Raw silk (not thrown),44,Not a Food Product
-'26190.01,26190.01,"Flax, processed but not spun",44,Not a Food Product
-'F1717,1717,"Cereals, primary",46,Upper Level Category
-'F1720,1720,"Roots and Tubers, Total",46,Upper Level Category
-'F1723,1723,Sugar Crops Primary,46,Upper Level Category
-'F1726,1726,"Pulses, Total",46,Upper Level Category
-'F1729,1729,"Treenuts, Total",46,Upper Level Category
-'F1732,1732,"Oilcrops, Oil Equivalent",46,Upper Level Category
-'F1735,1735,Vegetables Primary,46,Upper Level Category
-'F1738,1738,Fruit Primary,46,Upper Level Category
-'F1745,1745,Cheese (All Kinds),46,Upper Level Category
-'F1746,1746,Cattle and Buffaloes,46,Upper Level Category
-'F1749,1749,Sheep and Goats,46,Upper Level Category
-'F17530,17530,"Fibre Crops, Fibre Equivalent",46,Upper Level Category
-'F1765,1765,"Meat, Total",46,Upper Level Category
-'F1780,1780,"Milk, Total",46,Upper Level Category
-'F1783,1783,Eggs Primary,46,Upper Level Category
-'F1804,1804,"Citrus Fruit, Total",46,Upper Level Category
-'F1806,1806,"Beef and Buffalo Meat, primary",46,Upper Level Category
-'F1807,1807,Sheep and Goat Meat,46,Upper Level Category
-'F1808,1808,"Meat, Poultry",46,Upper Level Category
-'F1809,1809,"Skim Milk & Buttermilk, Dry",46,Upper Level Category
-'F1811,1811,Butter and Ghee,46,Upper Level Category
-'F1816,1816,Evaporated & Condensed Milk,46,Upper Level Category
-'F1841,1841,"Oilcrops, Cake Equivalent",46,Upper Level Category
-'F2029,2029,Poultry Birds,46,Upper Level Category
+Item_Code_CPC_text,Item_Code_CPC_num,Item,Category Code,Food_Product_Categories,
+'0111,111,Wheat,42,Wheat & Rye (Bread),
+'0112,112,Maize (corn),19,Maize (Meal),
+'0113,113,Rice,34,Rice,
+'0114,114,Sorghum,26,Other Pulses,
+'0115,115,Barley,3,Barley (Beer),
+'0116,116,Rye,42,Wheat & Rye (Bread),
+'0117,117,Oats,22,Oatmeal,
+'0118,118,Millet,26,Other Pulses,
+'01191,1191,Triticale,26,Other Pulses,
+'01192,1192,Buckwheat,26,Other Pulses,
+'01193,1193,Fonio,26,Other Pulses,
+'01194,1194,Quinoa,26,Other Pulses,
+'01195,1195,Canary seed,26,Other Pulses,
+'01199.02,1199.02,Mixed grain,26,Other Pulses,
+'01199.90,1199.9,Cereals n.e.c.,26,Other Pulses,
+'01211,1211,Asparagus,27,Other Vegetables,
+'01212,1212,Cabbages,8,Brassicas,
+'01213,1213,Cauliflowers and broccoli,8,Brassicas,
+'01214,1214,Lettuce and chicory,8,Brassicas,
+'01215,1215,Spinach,8,Brassicas,
+'01216,1216,Artichokes,27,Other Vegetables,
+'01219.01,1219.01,Cassava leaves,10,Cassava,
+'01221,1221,Watermelons,25,Other Fruit,
+'01229,1229,Cantaloupes and other melons,25,Other Fruit,
+'01231,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",27,Other Vegetables,
+'01232,1232,Cucumbers and gherkins,25,Other Fruit,
+'01233,1233,Eggplants (aubergines),25,Other Fruit,
+'01234,1234,Tomatoes,41,Tomatoes,
+'01235,1235,"Pumpkins, squash and gourds",25,Other Fruit,
+'01239.01,1239.01,Okra,27,Other Vegetables,
+'01241.01,1241.01,String beans,27,Other Vegetables,
+'01241.90,1241.9,"Other beans, green",27,Other Vegetables,
+'01242,1242,"Peas, green",29,Peas,
+'01243,1243,"Broad beans and horse beans, green",27,Other Vegetables,
+'01251,1251,Carrots and turnips,35,Root Vegetables,
+'01252,1252,Green garlic,24,Onions & Leeks,
+'01253.01,1253.01,"Onions and shallots, green",24,Onions & Leeks,
+'01253.02,1253.02,"Onions and shallots, dry (excluding dehydrated)",24,Onions & Leeks,
+'01254,1254,Leeks and other alliaceous vegetables,24,Onions & Leeks,
+'01270,1270,Mushrooms and truffles,25,Other Fruit,
+'01290.01,1290.01,Green corn (maize),19,Maize (Meal),
+'01290.90,1290.9,"Other vegetables, fresh n.e.c.",27,Other Vegetables,
+'01311,1311,Avocados,25,Other Fruit,
+'01312,1312,Bananas,2,Bananas,
+'01313,1313,Plantains and cooking bananas,2,Bananas,
+'01314,1314,Dates,25,Other Fruit,
+'01315,1315,Figs,25,Other Fruit,
+'01316,1316,"Mangoes, guavas and mangosteens",25,Other Fruit,
+'01317,1317,Papayas,25,Other Fruit,
+'01318,1318,Pineapples,25,Other Fruit,
+'01319,1319,"Other tropical fruits, n.e.c.",25,Other Fruit,
+'01321,1321,Pomelos and grapefruits,12,Citrus Fruit,
+'01322,1322,Lemons and limes,12,Citrus Fruit,
+'01323,1323,Oranges,12,Citrus Fruit,
+'01324,1324,"Tangerines, mandarins, clementines",12,Citrus Fruit,
+'01329,1329,"Other citrus fruit, n.e.c.",12,Citrus Fruit,
+'01330,1330,Grapes,7,Berries & Grapes,
+'01341,1341,Apples,1,Apples,
+'01342.01,1342.01,Pears,25,Other Fruit,
+'01342.02,1342.02,Quinces,25,Other Fruit,
+'01343,1343,Apricots,25,Other Fruit,
+'01344.01,1344.01,Sour cherries,7,Berries & Grapes,
+'01344.02,1344.02,Cherries,7,Berries & Grapes,
+'01345,1345,Peaches and nectarines,25,Other Fruit,
+'01346,1346,Plums and sloes,25,Other Fruit,
+'01349.10,1349.1,Other pome fruits,25,Other Fruit,
+'01349.20,1349.2,Other stone fruits,25,Other Fruit,
+'01351.01,1351.01,Currants,7,Berries & Grapes,
+'01351.02,1351.02,Gooseberries,7,Berries & Grapes,
+'01352,1352,Kiwi fruit,7,Berries & Grapes,
+'01353.01,1353.01,Raspberries,7,Berries & Grapes,
+'01354,1354,Strawberries,7,Berries & Grapes,
+'01355.01,1355.01,Blueberries,7,Berries & Grapes,
+'01355.02,1355.02,Cranberries,7,Berries & Grapes,
+'01355.90,1355.9,Other berries and fruits of the genus vaccinium n.e.c.,7,Berries & Grapes,
+'01356,1356,Locust beans (carobs),26,Other Pulses,
+'01359.01,1359.01,Persimmons,25,Other Fruit,
+'01359.02,1359.02,Cashewapple,21,Nuts,
+'01359.90,1359.9,"Other fruits, n.e.c.",25,Other Fruit,
+'01371,1371,"Almonds, in shell",21,Nuts,
+'01372,1372,"Cashew nuts, in shell",21,Nuts,
+'01373,1373,"Chestnuts, in shell",21,Nuts,
+'01374,1374,"Hazelnuts, in shell",21,Nuts,
+'01375,1375,"Pistachios, in shell",21,Nuts,
+'01376,1376,"Walnuts, in shell",21,Nuts,
+'01377,1377,"Brazil nuts, in shell",21,Nuts,
+'01379.01,1379.01,Areca nuts,21,Nuts,
+'01379.02,1379.02,Kola nuts,21,Nuts,
+'01379.90,1379.9,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",21,Nuts,
+'0141,141,Soya beans,40,Tofu,
+'0142,142,"Groundnuts, excluding shelled",17,Groundnuts,
+'0143,143,Cotton seed,26,Other Pulses,
+'01441,1441,Linseed,26,Other Pulses,
+'01442,1442,Mustard seed,26,Other Pulses,
+'01443,1443,Rape or colza seed,33,Rapeseed Oil,
+'01444,1444,Sesame seed,26,Other Pulses,
+'01445,1445,Sunflower seed,39,Sunflower Oil,
+'01446,1446,Safflower seed,26,Other Pulses,
+'01447,1447,Castor oil seeds,26,Other Pulses,
+'01448,1448,Poppy seed,26,Other Pulses,
+'01449.01,1449.01,Melonseed,26,Other Pulses,
+'01449.02,1449.02,Hempseed,26,Other Pulses,
+'01449.90,1449.9,"Other oil seeds, n.e.c.",26,Other Pulses,
+'01450,1450,Olives,25,Other Fruit,
+'01460,1460,"Coconuts, in shell",25,Other Fruit,
+'01491.01,1491.01,Oil palm fruit,28,Palm Oil,
+'01491.02,1491.02,Palm kernels,26,Other Pulses,
+'01499.01,1499.01,Karite nuts (sheanuts),21,Nuts,
+'01499.02,1499.02,Tung nuts,21,Nuts,
+'01499.03,1499.03,Jojoba seeds,44,Not a Food Product,
+'01499.04,1499.04,Tallowtree seeds,44,Not a Food Product,
+'01499.05,1499.05,Kapok fruit,25,Other Fruit,
+'01499.06,1499.06,Kapokseed in shell,26,Other Pulses,
+'01510,1510,Potatoes,31,Potatoes,
+'01520.01,1520.01,"Cassava, fresh",10,Cassava,
+'01530,1530,Sweet potatoes,35,Root Vegetables,
+'01540,1540,Yams,35,Root Vegetables,
+'01550,1550,Taro,35,Root Vegetables,
+'01591,1591,Yautia,35,Root Vegetables,
+'01599.10,1599.1,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",35,Root Vegetables,
+'01610,1610,"Coffee, green",13,Coffee,
+'01620,1620,Tea leaves,27,Other Vegetables,
+'01630,1630,Maté leaves,27,Other Vegetables,
+'01640,1640,Cocoa beans,14,Dark Chocolate,
+'01651,1651,"Pepper (Piper spp.), raw",25,Other Fruit,
+'01652,1652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",25,Other Fruit,
+'01653,1653,"Nutmeg, mace, cardamoms, raw",26,Other Pulses,
+'01654,1654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",26,Other Pulses,
+'01655,1655,"Cinnamon and cinnamon-tree flowers, raw",27,Other Vegetables,
+'01656,1656,"Cloves (whole stems), raw",27,Other Vegetables,
+'01657,1657,"Ginger, raw",35,Root Vegetables,
+'01658,1658,"Vanilla, raw",26,Other Pulses,
+'01659,1659,Hop cones,27,Other Vegetables,
+'01691,1691,Chicory roots,35,Root Vegetables,
+'01699,1699,"Other stimulant, spice and aromatic crops, n.e.c.",27,Other Vegetables,
+'01701,1701,"Beans, dry",26,Other Pulses,
+'01702,1702,"Broad beans and horse beans, dry",26,Other Pulses,
+'01703,1703,"Chick peas, dry",26,Other Pulses,
+'01704,1704,"Lentils, dry",26,Other Pulses,
+'01705,1705,"Peas, dry",29,Peas,
+'01706,1706,"Cow peas, dry",26,Other Pulses,
+'01707,1707,"Pigeon peas, dry",26,Other Pulses,
+'01708,1708,"Bambara beans, dry",26,Other Pulses,
+'01709.01,1709.01,Vetches,26,Other Pulses,
+'01709.02,1709.02,Lupins,26,Other Pulses,
+'01709.90,1709.9,Other pulses n.e.c.,26,Other Pulses,
+'01801,1801,Sugar beet,6,Beet Sugar,
+'01802,1802,Sugar cane,9,Cane Sugar,
+'01809,1809,Other sugar crops n.e.c.,45,No CO2 data provided,
+'01921.01,1921.01,"Seed cotton, unginned",44,Not a Food Product,
+'01921.02,1921.02,"Cotton lint, ginned",44,Not a Food Product,
+'01922.01,1922.01,"Jute, raw or retted",44,Not a Food Product,
+'01922.02,1922.02,"Kenaf, and other textile bast fibres, raw or retted",44,Not a Food Product,
+'01929.02,1929.02,"True hemp, raw or retted",44,Not a Food Product,
+'01929.03,1929.03,"Kapok fibre, raw",44,Not a Food Product,
+'01929.04,1929.04,"Ramie, raw or retted",44,Not a Food Product,
+'01929.05,1929.05,"Sisal, raw",44,Not a Food Product,
+'01929.06,1929.06,"Agave fibres, raw, n.e.c.",44,Not a Food Product,
+'01929.07,1929.07,"Abaca, manila hemp, raw",44,Not a Food Product,
+'01929.08,1929.08,"Coir, raw",44,Not a Food Product,
+'01929.90,1929.9,"Other fibre crops, raw, n.e.c.",44,Not a Food Product,
+'01930.01,1930.01,"Peppermint, spearmint",27,Other Vegetables,
+'01930.02,1930.02,"Pyrethrum, dried flowers",44,Not a Food Product,
+'01950.01,1950.01,Natural rubber in primary forms,44,Not a Food Product,
+'01970,1970,Unmanufactured tobacco,44,Not a Food Product,
+'02111,2111,Cattle,4,Beef (beef herd),
+'02112,2112,Buffalo,45,No CO2 data provided,
+'02121.01,2121.01,Camels,45,No CO2 data provided,
+'02121.02,2121.02,Other camelids,45,No CO2 data provided,
+'02122,2122,Sheep,18,Lamb & Mutton,
+'02123,2123,Goats,45,No CO2 data provided,
+'02131,2131,Horses,45,No CO2 data provided,
+'02132,2132,Asses,45,No CO2 data provided,
+'02133,2133,Mules and hinnies,45,No CO2 data provided,
+'02140,2140,Swine / pigs,30,Pig Meat,
+'02151,2151,Chickens,32,Poultry Meat,
+'02152,2152,Turkeys,32,Poultry Meat,
+'02153,2153,Geese,32,Poultry Meat,
+'02154,2154,Ducks,32,Poultry Meat,
+'02191,2191,Rabbits and hares,45,No CO2 data provided,
+'02192.01,2192.01,Other rodents,45,No CO2 data provided,
+'02196,2196,Bees,44,Not a Food Product,
+'02211,2211,Raw milk of cattle,20,Milk,
+'02212,2212,Raw milk of buffalo,20,Milk,
+'02291,2291,Raw milk of sheep,20,Milk,
+'02292,2292,Raw milk of goats,20,Milk,
+'02293,2293,Raw milk of camel,20,Milk,
+'0231,231,"Hen eggs in shell, fresh",15,Eggs,
+'0232,232,"Eggs from other birds in shell, fresh, n.e.c.",15,Eggs,
+'02910,2910,Natural honey,45,No CO2 data provided,
+'02920,2920,"Snails, fresh, chilled, frozen, dried, salted or in brine, except sea snails",45,No CO2 data provided,
+'02941,2941,"Shorn wool, greasy, including fleece-washed shorn wool",44,Not a Food Product,
+'02944,2944,Silk-worm cocoons suitable for reeling,44,Not a Food Product,
+'02951.01,2951.01,Raw hides and skins of cattle,44,Not a Food Product,
+'02951.03,2951.03,Raw hides and skins of buffaloes,44,Not a Food Product,
+'02953,2953,Raw hides and skins of sheep or lambs,44,Not a Food Product,
+'02954,2954,Raw hides and skins of goats or kids,44,Not a Food Product,
+'02960.01,2960.01,Beeswax,44,Not a Food Product,
+'03211,3211,"Balata, gutta-percha, guayule, chicle and similar natural gums in primary forms or in plates, sheets or strip",44,Not a Food Product,
+'21111.01,21111.01,"Meat of cattle with the bone, fresh or chilled",4,Beef (beef herd),
+'21112,21112,"Meat of buffalo, fresh or chilled",45,No CO2 data provided,
+'21113.01,21113.01,"Meat of pig with the bone, fresh or chilled",45,No CO2 data provided,
+'21114,21114,"Meat of rabbits and hares, fresh or chilled",45,No CO2 data provided,
+'21115,21115,"Meat of sheep, fresh or chilled",18,Lamb & Mutton,
+'21116,21116,"Meat of goat, fresh or chilled",45,No CO2 data provided,
+'21117.01,21117.01,"Meat of camels, fresh or chilled",45,No CO2 data provided,
+'21117.02,21117.02,"Meat of other domestic camelids, fresh or chilled",45,No CO2 data provided,
+'21118.01,21118.01,"Horse meat, fresh or chilled",45,No CO2 data provided,
+'21118.02,21118.02,"Meat of asses, fresh or chilled",45,No CO2 data provided,
+'21118.03,21118.03,"Meat of mules, fresh or chilled",45,No CO2 data provided,
+'21119.01,21119.01,"Meat of other domestic rodents, fresh or chilled",45,No CO2 data provided,
+'21121,21121,"Meat of chickens, fresh or chilled",32,Poultry Meat,
+'21122,21122,"Meat of ducks, fresh or chilled",32,Poultry Meat,
+'21123,21123,"Meat of geese, fresh or chilled",32,Poultry Meat,
+'21124,21124,"Meat of turkeys, fresh or chilled",32,Poultry Meat,
+'21151,21151,"Edible offal of cattle, fresh, chilled or frozen",4,Beef (beef herd),
+'21152,21152,"Edible offal of buffalo, fresh, chilled or frozen",45,No CO2 data provided,
+'21153,21153,"Edible offal of pigs, fresh, chilled or frozen",30,Pig Meat,
+'21155,21155,"Edible offal of sheep, fresh, chilled or frozen",18,Lamb & Mutton,
+'21156,21156,"Edible offal of goat, fresh, chilled or frozen",45,No CO2 data provided,
+'21159.01,21159.01,"Edible offals of horses and other equines,  fresh, chilled or frozen",45,No CO2 data provided,
+'21159.02,21159.02,"Edible offals of camels and other camelids, fresh, chilled or frozen",45,No CO2 data provided,
+'21170.01,21170.01,"Meat of pigeons and other birds n.e.c., fresh, chilled or frozen",32,Poultry Meat,
+'21170.02,21170.02,"Game meat, fresh, chilled or frozen",45,No CO2 data provided,
+'21170.92,21170.92,"Other meat n.e.c. (excluding mammals), fresh, chilled or frozen",45,No CO2 data provided,
+'21511.01,21511.01,Fat of pigs,30,Pig Meat,
+'21512,21512,"Cattle fat, unrendered",4,Beef (beef herd),
+'21513,21513,"Buffalo fat, unrendered",45,No CO2 data provided,
+'21514,21514,"Sheep fat, unrendered",18,Lamb & Mutton,
+'21515,21515,"Goat fat, unrendered",45,No CO2 data provided,
+'21519.02,21519.02,Fat of camels,45,No CO2 data provided,
+'21521,21521,"Pig fat, rendered",30,Pig Meat,
+'21523,21523,Tallow,44,Not a Food Product,
+'2161,2161,Soya bean oil,37,Soybean Oil,
+'2162,2162,Groundnut oil,17,Groundnuts,
+'21631.01,21631.01,"Sunflower-seed oil, crude",39,Sunflower Oil,
+'21631.02,21631.02,"Safflower-seed oil, crude",26,Other Pulses,
+'21641.01,21641.01,"Rapeseed or canola oil, crude",33,Rapeseed Oil,
+'2165,2165,Palm oil,28,Palm Oil,
+'2166,2166,Coconut oil,25,Other Fruit,
+'2167,2167,Olive oil,23,Olive Oil,
+'2168,2168,Cottonseed oil,26,Other Pulses,
+'21691.02,21691.02,Oil of maize,19,Maize (Meal),
+'21691.07,21691.07,Oil of sesame seed,26,Other Pulses,
+'21691.12,21691.12,Oil of linseed,26,Other Pulses,
+'21691.14,21691.14,Oil of palm kernel,26,Other Pulses,
+'21700.02,21700.02,Margarine and shortening,33,Rapeseed Oil,
+'22110.02,22110.02,Skim milk of cows,20,Milk,
+'22120,22120,"Cream, fresh",20,Milk,
+'22130.02,22130.02,"Whey, dry",20,Milk,
+'22130.03,22130.03,"Whey, condensed",20,Milk,
+'22211,22211,Whole milk powder,20,Milk,
+'22212,22212,Skim milk and whey powder,20,Milk,
+'22221.01,22221.01,"Whole milk, evaporated",20,Milk,
+'22221.02,22221.02,"Skim milk, evaporated",20,Milk,
+'22222.01,22222.01,"Whole milk, condensed",20,Milk,
+'22222.02,22222.02,"Skim milk, condensed",20,Milk,
+'22230.01,22230.01,Yoghurt,20,Milk,
+'22230.04,22230.04,"Buttermilk, dry",20,Milk,
+'22241.01,22241.01,Butter of cow milk,20,Milk,
+'22241.02,22241.02,Ghee from cow milk,20,Milk,
+'22242.01,22242.01,Butter of buffalo milk,20,Milk,
+'22242.02,22242.02,Ghee from buffalo milk,20,Milk,
+'22249.01,22249.01,Butter and ghee of sheep milk,20,Milk,
+'22249.02,22249.02,Butter of goat milk,20,Milk,
+'22251.01,22251.01,Cheese from whole cow milk,11,Cheese,
+'22251.02,22251.02,Cheese from skimmed cow milk,11,Cheese,
+'22252,22252,"Cheese from milk of buffalo, fresh or processed",11,Cheese,
+'22253,22253,"Cheese from milk of sheep, fresh or processed",11,Cheese,
+'22254,22254,"Cheese from milk of goats, fresh or processed",11,Cheese,
+'23540,23540,Molasses,45,No CO2 data provided,
+'23913,23913,"Green tea (not fermented), black tea (fermented) and partly fermented tea",27,Other Vegetables,
+'24212.02,24212.02,Wine,43,Wine,
+'24310.01,24310.01,"Beer of barley, malted",3,Barley (Beer),
+'26110,26110,Raw silk (not thrown),44,Not a Food Product,
+'26190.01,26190.01,"Flax, processed but not spun",44,Not a Food Product,
