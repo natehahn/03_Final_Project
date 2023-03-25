@@ -93,7 +93,7 @@ Item_Code_CPC_text,Item_Code_CPC_num,Item,Category Code,Food_Product_Categories
 '0143,143,Cotton seed,26,Other Pulses
 '01441,1441,Linseed,26,Other Pulses
 '01442,1442,Mustard seed,26,Other Pulses
-01443,1443,Rape or colza seed,33,Rapeseed Oil
+'01443,1443,Rape or colza seed,33,Rapeseed Oil
 '01444,1444,Sesame seed,26,Other Pulses
 '01445,1445,Sunflower seed,39,Sunflower Oil
 '01446,1446,Safflower seed,26,Other Pulses
@@ -147,7 +147,7 @@ Item_Code_CPC_text,Item_Code_CPC_num,Item,Category Code,Food_Product_Categories
 '01709.90,1709.9,Other pulses n.e.c.,26,Other Pulses
 '01801,1801,Sugar beet,6,Beet Sugar
 '01802,1802,Sugar cane,9,Cane Sugar
-'01809,1809,Other sugar crops n.e.c.,45,No CO2 data provided
+01809.01,1809.02,Other sugar crops n.e.c.,45,No CO2 data provided
 '01921.01,1921.01,"Seed cotton, unginned",44,Not a Food Product
 '01921.02,1921.02,"Cotton lint, ginned",44,Not a Food Product
 '01922.01,1922.01,"Jute, raw or retted",44,Not a Food Product
@@ -295,7 +295,7 @@ Item_Code_CPC_text,Item_Code_CPC_num,Item,Category Code,Food_Product_Categories
 'F1806,1806,"Beef and Buffalo Meat, primary",46,Upper Level Category
 'F1807,1807,Sheep and Goat Meat,46,Upper Level Category
 'F1808,1808,"Meat, Poultry",46,Upper Level Category
-'F1809,1809,"Skim Milk & Buttermilk, Dry",46,Upper Level Category
+F1809.02,1809.02,"Skim Milk & Buttermilk, Dry",46,Upper Level Category
 'F1811,1811,Butter and Ghee,46,Upper Level Category
 'F1816,1816,Evaporated & Condensed Milk,46,Upper Level Category
 'F1841,1841,"Oilcrops, Cake Equivalent",46,Upper Level Category
