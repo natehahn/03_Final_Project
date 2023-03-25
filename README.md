@@ -13,7 +13,7 @@
 
 
 ## Description of Data
-The datasets we will be examining in this analysis come from Kaggle and WorldBank report. We will be comparing the the relation of the product production impact on a countries CO2 emisson rates between the years 2000 to 2021
+The datasets we will be examining in this analysis come from Kaggle and WorldBank report. We will be comparing the the relation of the product production impact on a countries CO2 emisson rates between the years 2000 to 2020
 
 
 
