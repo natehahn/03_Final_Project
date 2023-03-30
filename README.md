@@ -1,7 +1,7 @@
 # 03_Final_Project
 
 ## Topic
-**Food producation rates impacting CO2 emmisions based by countries**
+**Food producation rates impacting CO2 emmisions based by countries.  We chose this dataset because we were interested in whether we could identify casuality of a specific type of product with a countries overall CO2 emissions.  Population can also have an effect on this, including the industry level of the country.  We didn't go to far down that path because that would be very complex.**
 
 ## Datasets 
 
