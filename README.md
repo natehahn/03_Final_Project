@@ -23,7 +23,7 @@ The datasets we will be examining in this analysis come from Kaggle and WorldBan
 Data was cleaned using Excel, SQL, and Python. Most of the standardization and transformation as done in Excel. Files were joined using SQL in a PGAdmin database. Data was aggregated into categories using Python in Jupyter notebook with the Pandas library.
 
 ## Machine Learning Model
-
+Three different models were tested for performance in their ability to predict overall CO2 emissions based on CO2 emissions of individual products. The Extra Trees Regressor model had the highest R2 value and lowest MSE and MAE values so we decided to use Extra Trees for our machine learning model. 
 
 ## Investigative Query
 
