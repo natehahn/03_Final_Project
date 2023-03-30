@@ -19,6 +19,9 @@ The datasets we will be examining in this analysis come from Kaggle and WorldBan
 
 ## Tools and Technologies 
 
+## Data Cleaning
+Data was cleaned using Excel, SQL, and Python. Most of the standardization and transformation as done in Excel. Files were joined using SQL in a PGAdmin database. Data was aggregated into categories using Python in Jupyter notebook with the Pandas library.
+
 ## Machine Learning Model
 
 
