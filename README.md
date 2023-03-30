@@ -36,4 +36,4 @@ Data was cleaned using Excel, SQL, and Python. Most of the standardization and t
 ## Findings  
 
 ## Dashboard 
-[Tableau][https://public.tableau.com/app/profile/nathan.hahn1273/viz/CO2EmissionsintheWorld_16801425527960/Map?publish=yes]
+[CO2 Emissions in the World](https://public.tableau.com/app/profile/nathan.hahn1273/viz/CO2EmissionsintheWorld_16801425527960/Map?publish=yes)
