@@ -30,7 +30,15 @@ PgAdmin4
 Data was cleaned using Excel, SQL, and Python. Most of the standardization and transformation as done in Excel. Files were joined using SQL in a PGAdmin database. Data was aggregated into categories using Python in Jupyter notebook with the Pandas library.
 
 ## Machine Learning Model
-Three different models were tested for performance in their ability to predict overall CO2 emissions based on CO2 emissions of individual products. The Extra Trees Regressor model had the highest R2 value and lowest MSE and MAE values so we decided to use Extra Trees for our machine learning model. 
+Three different models were tested for performance in their ability to predict overall CO2 emissions based on CO2 emissions of individual products. The Extra Trees Regressor model had the highest R2 value and lowest MSE and MAE values. Also, as seen in the plot below, no predicted values differed dramatically from actual values. For these reasons we decided to use the ExtraTreesRegressor for our machine learning model. 
+
+<img src="https://github.com/natehahn/03_Final_Project/blob/main/Images/ExtraTrees_PerformanceMetrics.png">
+
+<img src="https://github.com/natehahn/03_Final_Project/blob/main/Images/ExtraTrees_TruevsPredicted.png" width="400" height="400">
+
+Another reason for choosing this model was that it allowed us to sort features based on importance. This will help us tune the model by excluding unimportant features and provides us with insightful information about the data by telling us which features are most important in predicting overall CO2 levels. 
+
+<img src="https://github.com/natehahn/03_Final_Project/blob/main/Images/ExtraTrees_FeatureImportance.png" width="650" height="400">
 
 ## Investigative Query
 
