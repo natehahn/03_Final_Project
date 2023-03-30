@@ -19,11 +19,11 @@ The datasets we will be examining in this analysis come from Kaggle and WorldBan
 
 ## Tools and Technologies 
 
-Jupyter Notebook
-Python
-Tableau Public
-Blender
-Google Presentation
+Jupyter Notebook<br>
+Python<br>
+Tableau Public<br>
+Blender<br>
+Google Presentation<br>
 PgAdmin4
 
 ## Data Cleaning
