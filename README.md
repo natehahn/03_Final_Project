@@ -40,6 +40,8 @@ Another reason for choosing this model was that it allowed us to sort features b
 
 <img src="https://github.com/natehahn/03_Final_Project/blob/main/Images/ExtraTrees_FeatureImportance.png" width="650" height="400">
 
+This model appeared to tell us that categories 3, 19, and 32 were the most significant features. These correspond to barley, maize, and poultry meat respectively with maize being the most important feature in predicting CO2 emissions by far. This does not mean that maize production emmits the most CO2 but that the amount of CO2 produced by maize production in any given country during any given year between 2000 and 2020 correlates very closely with the overall C02 emissions of that country during that year. 
+
 ## Investigative Query
 
 1. Does the amount of agricultural production predict the CO2 emissions of a country?
