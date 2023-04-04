@@ -52,4 +52,4 @@ This model appeared to tell us that categories 3, 19, and 32 were the most signi
 ## Findings  
 
 ## Dashboard 
-[CO2 Emissions in the World](https://public.tableau.com/app/profile/nathan.hahn1273/viz/CO2EmissionsintheWorld_16801425527960/Map?publish=yes)
+[CO2 Emissions in the World](https://public.tableau.com/app/profile/nathan.hahn1273/viz/CO2Emission_16803796768950/CO2Emissions?publish=yes)
