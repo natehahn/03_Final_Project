@@ -1011,28 +1011,28 @@
 40,Chile,2019,19039485
 40,Chile,2020,19300315
 40,Chile,2021,19493184
-41,China,2000,1262645000
-41,China,2001,1271850000
-41,China,2002,1280400000
-41,China,2003,1288400000
-41,China,2004,1296075000
-41,China,2005,1303720000
-41,China,2006,1311020000
-41,China,2007,1317885000
-41,China,2008,1324655000
-41,China,2009,1331260000
-41,China,2010,1337705000
-41,China,2011,1345035000
-41,China,2012,1354190000
-41,China,2013,1363240000
-41,China,2014,1371860000
-41,China,2015,1379860000
-41,China,2016,1387790000
-41,China,2017,1396215000
-41,China,2018,1402760000
-41,China,2019,1407745000
-41,China,2020,1411100000
-41,China,2021,1412360000
+41,"China, mainland",2000,1262645000
+41,"China, mainland",2001,1271850000
+41,"China, mainland",2002,1280400000
+41,"China, mainland",2003,1288400000
+41,"China, mainland",2004,1296075000
+41,"China, mainland",2005,1303720000
+41,"China, mainland",2006,1311020000
+41,"China, mainland",2007,1317885000
+41,"China, mainland",2008,1324655000
+41,"China, mainland",2009,1331260000
+41,"China, mainland",2010,1337705000
+41,"China, mainland",2011,1345035000
+41,"China, mainland",2012,1354190000
+41,"China, mainland",2013,1363240000
+41,"China, mainland",2014,1371860000
+41,"China, mainland",2015,1379860000
+41,"China, mainland",2016,1387790000
+41,"China, mainland",2017,1396215000
+41,"China, mainland",2018,1402760000
+41,"China, mainland",2019,1407745000
+41,"China, mainland",2020,1411100000
+41,"China, mainland",2021,1412360000
 42,Colombia,2000,39215135
 42,Colombia,2001,39837875
 42,Colombia,2002,40454050
@@ -1077,50 +1077,50 @@
 43,Comoros,2019,790986
 43,Comoros,2020,806166
 43,Comoros,2021,821625
-44,"Congo, Dem. Rep.",2000,48616317
-44,"Congo, Dem. Rep.",2001,50106657
-44,"Congo, Dem. Rep.",2002,51662071
-44,"Congo, Dem. Rep.",2003,53205639
-44,"Congo, Dem. Rep.",2004,54815607
-44,"Congo, Dem. Rep.",2005,56550247
-44,"Congo, Dem. Rep.",2006,58381630
-44,"Congo, Dem. Rep.",2007,60289422
-44,"Congo, Dem. Rep.",2008,62249724
-44,"Congo, Dem. Rep.",2009,64270232
-44,"Congo, Dem. Rep.",2010,66391257
-44,"Congo, Dem. Rep.",2011,68654269
-44,"Congo, Dem. Rep.",2012,70997870
-44,"Congo, Dem. Rep.",2013,73460021
-44,"Congo, Dem. Rep.",2014,76035588
-44,"Congo, Dem. Rep.",2015,78656904
-44,"Congo, Dem. Rep.",2016,81430977
-44,"Congo, Dem. Rep.",2017,84283273
-44,"Congo, Dem. Rep.",2018,87087355
-44,"Congo, Dem. Rep.",2019,89906890
-44,"Congo, Dem. Rep.",2020,92853164
-44,"Congo, Dem. Rep.",2021,95894118
-45,"Congo, Rep.",2000,3134030
-45,"Congo, Rep.",2001,3254101
-45,"Congo, Rep.",2002,3331158
-45,"Congo, Rep.",2003,3424653
-45,"Congo, Rep.",2004,3543012
-45,"Congo, Rep.",2005,3672839
-45,"Congo, Rep.",2006,3813323
-45,"Congo, Rep.",2007,3956329
-45,"Congo, Rep.",2008,4089602
-45,"Congo, Rep.",2009,4257230
-45,"Congo, Rep.",2010,4437884
-45,"Congo, Rep.",2011,4584216
-45,"Congo, Rep.",2012,4713257
-45,"Congo, Rep.",2013,4828066
-45,"Congo, Rep.",2014,4944861
-45,"Congo, Rep.",2015,5064386
-45,"Congo, Rep.",2016,5186824
-45,"Congo, Rep.",2017,5312340
-45,"Congo, Rep.",2018,5441062
-45,"Congo, Rep.",2019,5570733
-45,"Congo, Rep.",2020,5702174
-45,"Congo, Rep.",2021,5835806
+44,Democratic Republic of Congo,2000,48616317
+44,Democratic Republic of Congo,2001,50106657
+44,Democratic Republic of Congo,2002,51662071
+44,Democratic Republic of Congo,2003,53205639
+44,Democratic Republic of Congo,2004,54815607
+44,Democratic Republic of Congo,2005,56550247
+44,Democratic Republic of Congo,2006,58381630
+44,Democratic Republic of Congo,2007,60289422
+44,Democratic Republic of Congo,2008,62249724
+44,Democratic Republic of Congo,2009,64270232
+44,Democratic Republic of Congo,2010,66391257
+44,Democratic Republic of Congo,2011,68654269
+44,Democratic Republic of Congo,2012,70997870
+44,Democratic Republic of Congo,2013,73460021
+44,Democratic Republic of Congo,2014,76035588
+44,Democratic Republic of Congo,2015,78656904
+44,Democratic Republic of Congo,2016,81430977
+44,Democratic Republic of Congo,2017,84283273
+44,Democratic Republic of Congo,2018,87087355
+44,Democratic Republic of Congo,2019,89906890
+44,Democratic Republic of Congo,2020,92853164
+44,Democratic Republic of Congo,2021,95894118
+45,Congo,2000,3134030
+45,Congo,2001,3254101
+45,Congo,2002,3331158
+45,Congo,2003,3424653
+45,Congo,2004,3543012
+45,Congo,2005,3672839
+45,Congo,2006,3813323
+45,Congo,2007,3956329
+45,Congo,2008,4089602
+45,Congo,2009,4257230
+45,Congo,2010,4437884
+45,Congo,2011,4584216
+45,Congo,2012,4713257
+45,Congo,2013,4828066
+45,Congo,2014,4944861
+45,Congo,2015,5064386
+45,Congo,2016,5186824
+45,Congo,2017,5312340
+45,Congo,2018,5441062
+45,Congo,2019,5570733
+45,Congo,2020,5702174
+45,Congo,2021,5835806
 46,Costa Rica,2000,3979193
 46,Costa Rica,2001,4053222
 46,Costa Rica,2002,4122623
@@ -2485,28 +2485,28 @@
 90,Indonesia,2019,269582878
 90,Indonesia,2020,271857970
 90,Indonesia,2021,273753191
-91,"Iran, Islamic Rep.",2000,65544383
-91,"Iran, Islamic Rep.",2001,66674851
-91,"Iran, Islamic Rep.",2002,67327117
-91,"Iran, Islamic Rep.",2003,67954699
-91,"Iran, Islamic Rep.",2004,69061674
-91,"Iran, Islamic Rep.",2005,70182594
-91,"Iran, Islamic Rep.",2006,71275760
-91,"Iran, Islamic Rep.",2007,72319418
-91,"Iran, Islamic Rep.",2008,73318394
-91,"Iran, Islamic Rep.",2009,74322685
-91,"Iran, Islamic Rep.",2010,75373855
-91,"Iran, Islamic Rep.",2011,76342971
-91,"Iran, Islamic Rep.",2012,77324451
-91,"Iran, Islamic Rep.",2013,78458928
-91,"Iran, Islamic Rep.",2014,79961672
-91,"Iran, Islamic Rep.",2015,81790841
-91,"Iran, Islamic Rep.",2016,83306231
-91,"Iran, Islamic Rep.",2017,84505076
-91,"Iran, Islamic Rep.",2018,85617562
-91,"Iran, Islamic Rep.",2019,86564202
-91,"Iran, Islamic Rep.",2020,87290193
-91,"Iran, Islamic Rep.",2021,87923432
+91,Iran (Islamic Republic of),2000,65544383
+91,Iran (Islamic Republic of),2001,66674851
+91,Iran (Islamic Republic of),2002,67327117
+91,Iran (Islamic Republic of),2003,67954699
+91,Iran (Islamic Republic of),2004,69061674
+91,Iran (Islamic Republic of),2005,70182594
+91,Iran (Islamic Republic of),2006,71275760
+91,Iran (Islamic Republic of),2007,72319418
+91,Iran (Islamic Republic of),2008,73318394
+91,Iran (Islamic Republic of),2009,74322685
+91,Iran (Islamic Republic of),2010,75373855
+91,Iran (Islamic Republic of),2011,76342971
+91,Iran (Islamic Republic of),2012,77324451
+91,Iran (Islamic Republic of),2013,78458928
+91,Iran (Islamic Republic of),2014,79961672
+91,Iran (Islamic Republic of),2015,81790841
+91,Iran (Islamic Republic of),2016,83306231
+91,Iran (Islamic Republic of),2017,84505076
+91,Iran (Islamic Republic of),2018,85617562
+91,Iran (Islamic Republic of),2019,86564202
+91,Iran (Islamic Republic of),2020,87290193
+91,Iran (Islamic Republic of),2021,87923432
 92,Iraq,2000,24628858
 92,Iraq,2001,25425663
 92,Iraq,2002,26255343
@@ -5565,28 +5565,28 @@
 205,United Kingdom,2019,66836327
 205,United Kingdom,2020,67081000
 205,United Kingdom,2021,67326569
-206,United States,2000,282162411
-206,United States,2001,284968955
-206,United States,2002,287625193
-206,United States,2003,290107933
-206,United States,2004,292805298
-206,United States,2005,295516599
-206,United States,2006,298379912
-206,United States,2007,301231207
-206,United States,2008,304093966
-206,United States,2009,306771529
-206,United States,2010,309327143
-206,United States,2011,311583481
-206,United States,2012,313877662
-206,United States,2013,316059947
-206,United States,2014,318386329
-206,United States,2015,320738994
-206,United States,2016,323071755
-206,United States,2017,325122128
-206,United States,2018,326838199
-206,United States,2019,328329953
-206,United States,2020,331501080
-206,United States,2021,331893745
+206,United States of America,2000,282162411
+206,United States of America,2001,284968955
+206,United States of America,2002,287625193
+206,United States of America,2003,290107933
+206,United States of America,2004,292805298
+206,United States of America,2005,295516599
+206,United States of America,2006,298379912
+206,United States of America,2007,301231207
+206,United States of America,2008,304093966
+206,United States of America,2009,306771529
+206,United States of America,2010,309327143
+206,United States of America,2011,311583481
+206,United States of America,2012,313877662
+206,United States of America,2013,316059947
+206,United States of America,2014,318386329
+206,United States of America,2015,320738994
+206,United States of America,2016,323071755
+206,United States of America,2017,325122128
+206,United States of America,2018,326838199
+206,United States of America,2019,328329953
+206,United States of America,2020,331501080
+206,United States of America,2021,331893745
 264,Upper middle income,2000,2158201213
 264,Upper middle income,2001,2176410449
 264,Upper middle income,2002,2193797571
@@ -5675,28 +5675,28 @@
 209,Vanuatu,2019,304404
 209,Vanuatu,2020,311685
 209,Vanuatu,2021,319137
-210,"Venezuela, RB",2000,24427729
-210,"Venezuela, RB",2001,24880203
-210,"Venezuela, RB",2002,25330929
-210,"Venezuela, RB",2003,25782029
-210,"Venezuela, RB",2004,26226927
-210,"Venezuela, RB",2005,26668785
-210,"Venezuela, RB",2006,27102081
-210,"Venezuela, RB",2007,27525097
-210,"Venezuela, RB",2008,27933833
-210,"Venezuela, RB",2009,28327892
-210,"Venezuela, RB",2010,28715022
-210,"Venezuela, RB",2011,29096159
-210,"Venezuela, RB",2012,29470426
-210,"Venezuela, RB",2013,29838021
-210,"Venezuela, RB",2014,30193258
-210,"Venezuela, RB",2015,30529716
-210,"Venezuela, RB",2016,30741464
-210,"Venezuela, RB",2017,30563433
-210,"Venezuela, RB",2018,29825653
-210,"Venezuela, RB",2019,28971683
-210,"Venezuela, RB",2020,28490453
-210,"Venezuela, RB",2021,28199867
+210,Venezuela,2000,24427729
+210,Venezuela,2001,24880203
+210,Venezuela,2002,25330929
+210,Venezuela,2003,25782029
+210,Venezuela,2004,26226927
+210,Venezuela,2005,26668785
+210,Venezuela,2006,27102081
+210,Venezuela,2007,27525097
+210,Venezuela,2008,27933833
+210,Venezuela,2009,28327892
+210,Venezuela,2010,28715022
+210,Venezuela,2011,29096159
+210,Venezuela,2012,29470426
+210,Venezuela,2013,29838021
+210,Venezuela,2014,30193258
+210,Venezuela,2015,30529716
+210,Venezuela,2016,30741464
+210,Venezuela,2017,30563433
+210,Venezuela,2018,29825653
+210,Venezuela,2019,28971683
+210,Venezuela,2020,28490453
+210,Venezuela,2021,28199867
 211,Vietnam,2000,79001142
 211,Vietnam,2001,79817777
 211,Vietnam,2002,80642308
