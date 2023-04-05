@@ -22,7 +22,6 @@ The datasets we will be examining in this analysis come from Kaggle and WorldBan
 Jupyter Notebook<br>
 Python<br>
 Tableau Public<br>
-Blender<br>
 Google Presentation<br>
 PgAdmin4
 
@@ -45,7 +44,7 @@ This model appeared to tell us that categories 3, 19, and 32 were the most signi
 ## Investigative Query
 
 1. Does the amount of agricultural production predict the CO2 emissions of a country?
-2. What are the top (10) and low (10) products being produced by countries with higher CO2 emissions?
+2. What products being produced by countries have the highest and lowest CO2 emissions?
 3. Can we predict the year based on CO2 emissions of a country?
 4. Is there a correlation between population and the rate of production impacting CO2 emissions?
 
