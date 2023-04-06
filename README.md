@@ -77,12 +77,14 @@ Throught the Tableau dashboard we are able to see what food products have the hi
 
 - Wheat 14,130,705,994 Tonnes
 
+Throughout the data the structure of the emissions over years was consistent with a gradual increase in other corresponding factors. Looking at the 43 food product categories that were broken down and evaluated a similar trend was seen among all points. Since 2000 when our data began there has been a gradual linear increase in the over all CO2 production from all factors of query.
+
+Utilizing a matrix through Plotly Ex became instrumental in comparing the data in a comparative and visually appealing manor. With 220 individual countries x the 43 food product categories x the 20 years of data per country there is 189,200 factors. Through the matrix scatter plot we are able to individually group points of query and how they interact while keeping data integrity across the set. This code block as well as others was utilized for all 43 Products and see unknown trends. Another notable finding was in the production of barley (beer), it was one of the higher producing foods but was not a cornered industry like sugar cane being predominantly from Brazil and India. There was a fairly even country wide distribution of barely production and corresponding CO2 emission. People like beer!
+
+
 
 ## Dashboard 
 [CO2 Emissions in the World](https://public.tableau.com/app/profile/nathan.hahn1273/viz/CO2Emission_16803796768950/CO2Emissions?publish=yes)
 
 
-Throughout the data the structure of the emissions over years was consistent with a gradual increase in other corresponding factors. Looking at the 43 food product categories that were broken down and evaluated a similar trend was seen among all points. Since 2000 when our data began there has been a gradual linear increase in the over all CO2 production from all factors of query.
-
-Utilizing a matrix through Plotly Ex became instrumental in comparing the data in a comparative and visually appealing manor. With 220 individual countries x the 43 food product categories x the 20 years of data per country there is 189,200 factors. Through the matrix scatter plot we are able to individually group points of query and how they interact while keeping data integrity across the set. This code block as well as others was utilized for all 43 Products and see unknown trends. Another notable finding was in the production of barley (beer), it was one of the higher producing foods but was not a cornered industry like sugar cane being predominantly from Brazil and India. There was a fairly even country wide distribution of barely production and corresponding CO2 emission. People like beer!
 
