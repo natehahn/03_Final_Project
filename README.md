@@ -49,6 +49,40 @@ This model appeared to tell us that categories 3, 19, and 32 were the most signi
 4. Is there a correlation between population and the rate of production impacting CO2 emissions?
 
 ## Findings  
+In this analysis compared the CO2 emission rates of countries based on categorized food product production. Through cleaning the data, building a database and dashboard, and exploring the data with various tools and machine learning algorithms, we were able to fulfil the analysis's purpose; find correlations between selected features in our data including, the name of the country producing the most emissions, the food products whose productions most or least significant impact the rates of emission and if population plays factor into rates. 
+
+The analysis consisted of almost 9 million data points that we were able to extract in an impacting and reusable code set. Rather than taking a conventional route to the data we looked to multiple sources and utilized SQL to create a composed master table of all the selected features of the 4 original data bases that made the data suitable for analysis.  
+
+We chose this dataset because we were interested in whether we could identify causality of a specific type of product with a country’s overall CO2 emissions. Population can also have an effect on this, including the level of industrial development of the country. We didn't go too far down that path because that would have been a very complex program.
+
+### Investigative Query
+
+1. **Does the amount of agricultural production predict the CO2 emissions of a country?**
+
+2. **What products being produced by countries have the highest and lowest emissions?**
+
+3. **Can we predict the year based on CO2 emissions of a country?**
+
+4. **Is there a correlation between population and the rate of production impacting CO2 emissions?**
+
+### Exploratory Data Analysis
+What products being produced by countries have the highest emissions?
+Throught the Tableau dashboard we are able to see what food products have the highest and lowest impacting CO2 emissions. Using the heatmap below the foods that have the most global impact in production are:
+
+- Sugar Cane at 34,684,911,578 Tonnes
+
+- Maize(Corn) 18,467,107,546 Tonnes
+
+- Rice 14,367,247,693 Tonnes
+
+- Wheat 14,130,705,994 Tonnes
+
 
 ## Dashboard 
 [CO2 Emissions in the World](https://public.tableau.com/app/profile/nathan.hahn1273/viz/CO2Emission_16803796768950/CO2Emissions?publish=yes)
+
+
+Throughout the data the structure of the emissions over years was consistent with a gradual increase in other corresponding factors. Looking at the 43 food product categories that were broken down and evaluated a similar trend was seen among all points. Since 2000 when our data began there has been a gradual linear increase in the over all CO2 production from all factors of query.
+
+Utilizing a matrix through Plotly Ex became instrumental in comparing the data in a comparative and visually appealing manor. With 220 individual countries x the 43 food product categories x the 20 years of data per country there is 189,200 factors. Through the matrix scatter plot we are able to individually group points of query and how they interact while keeping data integrity across the set. This code block as well as others was utilized for all 43 Products and see unknown trends. Another notable finding was in the production of barley (beer), it was one of the higher producing foods but was not a cornered industry like sugar cane being predominantly from Brazil and India. There was a fairly even country wide distribution of barely production and corresponding CO2 emission. People like beer!
+
